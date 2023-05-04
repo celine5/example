@@ -1,0 +1,39 @@
+.sign{
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+.col-rightside h2{
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.col-rightside p{
+    color:dimgray;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.form-group{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.label{
+    display:block;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+input{
+    width:100%;
+    padding:10px;
+    margin:5px;
+}
+.register{
+    background-color: grey;
+    border:none;
+    color:black;
+    width:100;
+    padding:20px;
+    margin:10px;
+
+}
